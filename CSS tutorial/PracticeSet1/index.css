@@ -1,0 +1,27 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+
+div{
+
+    border: 2px solid black;
+    height: 300px;
+    width:300px;
+    margin: 15px;
+    padding: 15px;
+    text-align: start;
+    text-decoration: solid;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    background-color: lightslategray;
+    display:inline-block;
+}
+#footer
+{
+background-color: black;
+height: 100px;
+color:white;
+}

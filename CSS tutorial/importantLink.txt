@@ -1,0 +1,7 @@
+color picker - for picking the color for background
+
+Color pallete - https://colors.muz.li/
+
+coolors website for creating mixture color 
+
+google font 
